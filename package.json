@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "This package contains the rules defined by NJS2 framework for CommonJS project(s)",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "echo \"No test(s) specified\""
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Njs2/njs2-lint.git"
